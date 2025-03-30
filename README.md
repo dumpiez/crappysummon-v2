@@ -5,7 +5,7 @@ One more time, sorry for not completing all the previous attempts lol<br>
 My target for this version is for it to be a LOT more expansive than the previous one!<br>
 (as in, several combinations will open a secret, etc.)<br>
 <br>
-ILL TRY TO MAKE A GUI VERSION I SWEAR-
+being completely honest ill probably turn this into a cooking game
 
 📜 Released under the [MIT License](https://github.com/dumpiez/CrappySummon-v2/blob/main/LICENSE).
 
